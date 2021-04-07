@@ -1,0 +1,38 @@
+body{
+    color: whitesmoke;
+    text-align: justify;
+    margin: 100px;
+    font-family: 'Times New Roman', Times, serif;
+   background-image: url(../971.jpg);
+    
+
+
+}
+
+form{
+ 
+    }
+    
+input{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-size: cover;    
+    width: 70px;
+    height: 70px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.ecra{
+    background-color: darkgrey;
+    text-align: justify;
+    height: 70px;
+    width: 300px;
+}
+
+.reset{
+        width: 100px;
+        height: 70px;
+}
